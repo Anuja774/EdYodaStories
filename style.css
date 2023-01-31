@@ -104,6 +104,7 @@ main button.active {
 }
 
 .cards .card .content p span {
+    font-style: italic;
     color: #0096ff;
 }
 
